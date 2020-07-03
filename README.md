@@ -1,3 +1,9 @@
+# Bad Cast
+
+## Live Site
+
+https://nduhiu17.github.io/bad-cast/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
